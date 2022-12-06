@@ -1,4 +1,5 @@
 # Ships
+(in progress)
 * Player vs Player disabled due to bug.
 * Goofy computer (random shots).
 <!-- end of the list -->
